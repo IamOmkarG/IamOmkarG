@@ -27,4 +27,4 @@ Python • Java • AWS • Docker • Kubernetes • FastAPI • Redis • Post
 
 AI-powered engineering workflows that automate software development tasks.
 
-<img src="./omkargihubbanner.png" width="100%" />
+![Banner](omkargithubbanner.png)
