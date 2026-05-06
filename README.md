@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Omkar 👋
 
-<!--
-**IamOmkarG/IamOmkarG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I invoke APIs.
 
-Here are some ideas to get you started:
+Building AI-native developer systems, backend infrastructure, and intelligent automation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- AI Agents
+- Developer Tooling
+- Distributed Systems
+- RAG Architectures
+- Cloud Infrastructure
+- AI Automation
+
+---
+
+## Tech Stack
+
+Python • Java • AWS • Docker • Kubernetes • FastAPI • Redis • PostgreSQL • Vector DBs
+
+---
+
+## Currently Building
+
+AI-powered engineering workflows that automate software development tasks.
